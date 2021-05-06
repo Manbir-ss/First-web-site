@@ -1,0 +1,27 @@
+/*home section*/
+#navbar{
+    flex-direction: column;
+}
+#home::before{
+    height: 716px;
+}
+
+
+/* service section */
+#services
+{
+    flex-direction: column;
+}
+
+/*hacks section*/
+#hacks{
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+#hacks-section::before{
+    overflow:hidden;
+    height: 200%;
+
+}
+
+
